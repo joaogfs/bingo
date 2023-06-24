@@ -1,3 +1,5 @@
+NOTE: None of this is implemented yet
+
 Every slice member should have one of the following tags:
 - `delim`: the argument is a delimiter with hex notation `0x`
 - `size`: the argument should be a previously declared member of type `int` or an action the returns `int`
